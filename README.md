@@ -20,8 +20,10 @@ This table contains the following variables for each stock that i want to track 
 <li>1months % change</li>
 
 <br> 
+
 <b>My Portfolio </b>
-This table contains the following variable <br>
+This table contains the following variable 
+<br>
 <li>Stock Name</li>
 <li>Date of Position</li>
 <li>Value of stock at Position</li>
