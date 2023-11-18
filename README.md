@@ -4,7 +4,7 @@ The main purpose of this project is to track the performance of my stock potfoli
 I am planning to create the following tables to track the performance
 
 <b> My List </b> 
-This table contains the following variables for each stock that i want to track
+This table contains the following variables for each stock that i want to track <br>
 <li>Current Date</li>
 <li>Stock Name</li>
 <li>Current Value</li>
@@ -21,7 +21,7 @@ This table contains the following variables for each stock that i want to track
 
 <br> 
 <b>My Portfolio </b>
-This table contains the following variable
+This table contains the following variable <br>
 <li>Stock Name</li>
 <li>Date of Position</li>
 <li>Value of stock at Position</li>
